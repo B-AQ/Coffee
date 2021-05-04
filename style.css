@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  background-color: gray;
+  color: white;
+  
+
+
+}
+
+
+
+header{
+  background-image: url(coffee101.jpeg);
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+  list-style-type: none;
+
+  }
