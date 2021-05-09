@@ -20,7 +20,10 @@ var beverages = beverages.toLowerCase();
 
 console.log(beverages)
 
+
 while (beverages !== "cold" && beverages !== "hot") { beverages = prompt("Make sure to answer with eather Cold or Hot"); }
+
+while (beverages !== "cold" && beverages !== "hot") { drink = prompt("Make sure to answer with eather Cold or Hot"); }
 
 /* Service Rating */
 
